@@ -1,23 +1,24 @@
-body {
-  font-family: "Comic Sans MS";
+.container {
+  border: 1px solid blue;
   text-align: center;
-  color: #8a6d44;
-  border: 1px solid lightblue;
+  width: 700px;
+  margin: 0 auto;
 }
-h1 {
-  margin: 20px auto;
-  text-decoration: overline;
-  font-size: 20px;
-  width: 500px;
+.cabecera {
+  background-color: darkblue;
+  color: white;
   text-align: left;
+  vertical-align: center;
+  padding: 5px;
+  padding-left: 10px;
 }
-p {
-  margin: 20px auto;
-  width: 500px;
+.cabecera, h1 {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.post {
+  margin-top: 20px;
+  margin-bottom: 20px;
   text-align: left;
-  border: 1px solid lightblue;
-}
-header {
-  font-size: 30px;
-  color: #246a77
+  padding-left: 30px;
 }
