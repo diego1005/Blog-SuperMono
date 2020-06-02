@@ -2,7 +2,22 @@ body {
   font-family: "Comic Sans MS";
   text-align: center;
   color: #8a6d44;
+  border: 1px solid lightblue;
 }
 h1 {
+  margin: 20px auto;
   text-decoration: overline;
+  font-size: 20px;
+  width: 500px;
+  text-align: left;
+}
+p {
+  margin: 20px auto;
+  width: 500px;
+  text-align: left;
+  border: 1px solid lightblue;
+}
+header {
+  font-size: 30px;
+  color: #246a77
 }
