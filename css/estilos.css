@@ -3,3 +3,6 @@ body {
   text-align: center;
   color: #8a6d44;
 }
+h1 {
+  text-decoration: overline;
+}
