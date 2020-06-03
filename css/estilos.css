@@ -1,10 +1,21 @@
 body {
   color: #3f3f44;
 }
+.logo {
+  width: 30px;
+  height: 30px;
+  margin: auto 10px;
+  margin-left: 5px;
+}
+.tagline {
+  font-size: 17px;
+  margin: auto 0px;
+  padding-left: 10px;
+}
 .container {
   border: 1px solid blue;
   text-align: center;
-  width: 700px;
+  width: 70%;
   margin: 0 auto;
 }
 .cabecera {
@@ -12,10 +23,12 @@ body {
   color: white;
   text-align: left;
   vertical-align: center;
-  padding: 5px;
+  padding: 10px;
   padding-left: 10px;
+  display: flex;
 }
 .cabecera, h1 {
+  font-size: 25px;
   margin-top: 0px;
   margin-bottom: 0px;
 }
