@@ -1,3 +1,6 @@
+body {
+  color: darkgreen;
+}
 .container {
   border: 1px solid blue;
   text-align: center;
