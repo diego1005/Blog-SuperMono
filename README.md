@@ -1,4 +1,4 @@
-# Blog-SuperMono	:tw-1f435:
+# Blog-SuperMono
 ------------
 :monkey:
 
@@ -6,4 +6,4 @@
 
 <br/>
 <br/>
-`*Aqui estamos aprendiendo las bases acerca de git y github*`
+*Aqui estamos aprendiendo las bases acerca de git y github*`
