@@ -6,4 +6,4 @@
 
 <br/>
 <br/>
-*Aqui estamos aprendiendo las bases acerca de git y github*`
+`*Aqui estamos aprendiendo las bases acerca de git y github*`
