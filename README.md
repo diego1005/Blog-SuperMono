@@ -5,5 +5,7 @@
 > **BIENVENIDOS** a este blog de aprendizaje platzi.com
 
 
-<br/>
-Aqui estamos aprendiendo las bases acerca de git y github
+## Aqui aprenderemos sobre
+* Comandos git
+* Flujo de trabajo em github
+* Buenas practicas de trabajo
