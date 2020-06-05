@@ -9,3 +9,4 @@
 * Comandos git
 * Flujo de trabajo em github
 * Buenas practicas de trabajo
+* Incluye ejemplos en Windows, Linux y Mac
